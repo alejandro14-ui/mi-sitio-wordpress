@@ -8,3 +8,5 @@ Contenido del Repositorio
 - carpeta uploads: Contiene los archivos subidos por los usuarios, como imágenes y documentos.
 - carpeta backup: contiene los archivos de lenguaje
 - archivo backup: Archivos de respaldo de la instalación de WordPress.
+  
+link:https://tocupboard.42web.io/acceso-a-mi-sitio/
